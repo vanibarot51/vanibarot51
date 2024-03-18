@@ -1,10 +1,10 @@
-Hi 🙋🏻‍♀ I'm Vani Barot. A QA professional with a strong background in data analysis and a certification in AI development, I am excited to transition into data scientist role. I am excited to showcase my skills and projects in the portfolio and demonstrate my potential as a data scientist.
+<p> Hi 🙋🏻‍♀ I'm Vani Barot. A QA professional with a strong background in data analysis and a certification in AI development, I am excited to transition into data scientist role. I am excited to showcase my skills and projects in the portfolio and demonstrate my potential as a data scientist.</p>
 
-As a QA professional, I have honed my skills in various technical areas that align with data science:<br>
-   •	Cleaning, transforming and encoding data to prepare it for analysis or modeling<br>
-   •	Scripting and automating data analysis tasks<br>
+ As a QA professional, I have honed my skills in various technical areas that align with data science: <br>
+   •	Cleaning, transforming and encoding data to prepare it for analysis or modeling <br>
+   •	Scripting and automating data analysis tasks <br>
    •	Querying databases to retrieve data for analysis<br>
-   •	Creating graphs, charts, and other visualizations to help understanding the data and communicate insights<br>
+   •	Creating graphs, charts, and other visualizations to help understanding the data and communicate insights
 
 As a QA professional, I have honed my skills in various technical areas that align with data science: <br>
    •	Cleaning, transforming and encoding data to prepare it for analysis or modeling <br>
