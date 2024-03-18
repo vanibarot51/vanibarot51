@@ -12,16 +12,16 @@ As a QA professional, I have honed my skills in various technical areas that ali
    •	Querying databases to retrieve data for analysis <br>
    •	Creating graphs, charts, and other visualizations to help understanding the data and communicate insights <br>
 
-Tools 💻 <br>
+<strong> Tools </strong> 💻 <br>
    •	Language: SQL, NoSQL, Python, JAVA <br>
    •	Database: PostgreSQL, MySQL, MongoDB <br>
    •	AI based models and techniques: Machine Learning Algorithms, Natural Language Processing, Computer Vision <br>
    •	AI based Visualization: Matplotlib, Seaborn, Plotly <br>
 
-Certification 🎓 <br>
+<strong> Certification </strong> 🎓 <br>
    •	Professional Certificate in Machine Learning and Artificial Intelligence - UC Berkeley Executive Education <br>
 
-Connect with ME 👋 <br>
+<strong> Connect with ME </strong> 👋 <br>
    •	[LinkedIn]([url](https://www.linkedin.com/in/vani-barot-0501/)https://www.linkedin.com/in/vani-barot-0501/)   
    
 
