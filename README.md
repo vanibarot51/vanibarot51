@@ -21,7 +21,7 @@ As a QA professional, I have honed my skills in various technical areas that ali
 <strong> Certification </strong> 🎓 <br>
    •	Professional Certificate in Machine Learning and Artificial Intelligence - UC Berkeley Executive Education <br>
 
-<strong> <a href="https://www.linkedin.com/in/vani-barot-0501/> Connect with ME </a> </strong> 👋 <br>
+<strong> <a href="https://www.linkedin.com/in/vani-barot-0501/"> Connect with ME </a> </strong> 👋 <br>
    • LinkedIn 
    
 
